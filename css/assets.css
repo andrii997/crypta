@@ -1,0 +1,48 @@
+* {
+	outline: none;
+}
+h1,h2,h3,h4,h5,h6,p {
+	margin: 0;
+	color: #fff;
+}
+
+ul {
+	padding: 0;
+	list-style: none;
+	margin: 0;
+}
+html {
+	scroll-behavior: smooth;
+}
+body {
+	width: 100%;
+	margin: 0;
+}
+
+/* Шрифты */
+
+@font-face {
+ font-family: Codec Pro;
+ src: url(fonts/CodecPro-Regular.ttf);
+}
+
+
+
+/* Typography */
+
+h1 {
+
+}
+
+
+.title {
+
+}
+
+.subtitle {
+
+}
+
+p {
+
+}
