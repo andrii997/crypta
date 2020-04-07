@@ -678,8 +678,59 @@ section.table {
 	color: #fff;
 }
 
+.news-title {
+	font-family: Codec Pro;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 13px;
+	padding: 20px 0;
+	color: #898989;
+}
 
+.news-zag {
+	font-family: Codec Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: #141414;
+	padding: 20px 0;
+}
 
+.news-par {
+	font-family: Codec Pro;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 14px;
+	line-height: 16px;
+	max-width: 668px;
+	padding-bottom: 20px;
+	color: #000000;
+}
+
+.backk img {
+	margin-left: 10px;
+}
+
+.backk {
+	font-family: Codec Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 110%;
+	color: #2F2F2F;
+	margin-right: 25px;
+	text-decoration: none;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	align-items: center;
+}
+
+.backk:hover {
+	text-decoration: underline;
+}
 
 
 .milk-shadow {
